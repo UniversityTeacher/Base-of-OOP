@@ -1,1 +1,2 @@
 print "test"
+prinet "test 2"
